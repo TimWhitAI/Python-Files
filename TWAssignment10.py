@@ -8,7 +8,7 @@ Above 65: Senior citizen
 Output: Display the category based on the entered age.'''
 
 
-#Input
+#Input enter age
 age_input = input("Enter your Age: ")
 
 #Check if the input is a number and not an empty string
